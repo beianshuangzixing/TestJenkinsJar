@@ -5,6 +5,7 @@
 
 
 <web-app>
+    <description>adasdas</description>
   <context-param>
     <param-name>namespace</param-name>
     <param-value>xmlns:app="http://schemas.android.com/apk/res-auto"</param-value>
