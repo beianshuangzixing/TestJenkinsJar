@@ -2,6 +2,11 @@
  "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
+
+
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+  <context-param>
+    <param-name>namespace</param-name>
+    <param-value>xmlns:app="http://schemas.android.com/apk/res-auto"</param-value>
+  </context-param>
 </web-app>
