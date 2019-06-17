@@ -9,4 +9,8 @@
     <param-name>namespace</param-name>
     <param-value>xmlns:app="http://schemas.android.com/apk/res-auto"</param-value>
   </context-param>
+    <context-param>
+        <param-name>transformWsdlLocations</param-name>
+        <param-value>xmlns:app="http://schemas.android.com/apk/res-auto"</param-value>
+    </context-param>
 </web-app>
